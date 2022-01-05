@@ -1,0 +1,90 @@
+/* peru color style*/
+.fa-play{
+    color: peru;
+}
+.fa-pause{
+    color: peru;
+}
+.header .nav ul li a.active,
+.header .nav ul li a:hover{
+    color: #c5c5c5;
+}
+.loader .slide.active .home-content p:hover{
+    color: #d3af37;
+}
+.loader .slide.active .home-content h5:hover{
+    color: #d3af37;
+}
+.loader .slide.active .home-content h1:hover{
+    color: #d3af37;
+}
+.loader .slide.active .home-content h2:hover{
+    color: #d3af37;
+}
+.loader .slide.active .home-content h3:hover{
+    color: #d3af37;
+}
+.loader .slide.active .home-content h4:hover{
+    color: black;
+    background-color: #b29c7c;
+    border: 2px solid peru;
+}
+.sesi-judul:hover{
+    color: #d3af37;
+}
+.sesi-judul p:hover{
+    color: #d3af37;
+}
+.sesi-judul p1:hover{
+    color: #d3af37;
+}
+.arab:hover{
+    color: #d3af37;
+}
+.pembuka:hover{
+    color: #d3af37;
+}
+.pembuka1:hover{
+    color: #d3af37;
+}
+.sajid:hover{
+    color: #d3af37;
+}
+.dan:hover{
+    color: #d3af37;
+}
+.andri:hover{
+    color: #d3af37;
+}
+.putri:hover{
+    color: #d3af37;
+}
+.putra:hover{
+    color: #d3af37;
+}
+.txt:hover{
+    color: #d3af37;
+}
+.sesi-galeri .judul:hover{
+    color: #d3af37;
+}
+.mundur:hover{
+    color: #d3af37;
+}
+.inpo:hover{
+    color: #d3af37;
+}
+.covid p:hover{
+    color: #d3af37;
+}
+.tombol:hover{
+    color: #d3af37;
+}
+.lokasi:hover{
+    color: #d3af37;
+}
+.rum h1:hover,
+.rum p:hover,
+.rum h2:hover{
+    color: #d3af37;
+}
