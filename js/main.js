@@ -7,11 +7,6 @@ window.addEventListener("load", function () {
 $(document).ready(() => {
     getUrl();
   });
-  
-$(document).ready(function(){
-    $(".preloader").fadeOut();
-    })
-    
   function getUrl(){
     var url = window.location.href;
     var str = url.split('%');
