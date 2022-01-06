@@ -1,3 +1,7 @@
+$(document).ready(function(){
+    $(".preloader").fadeOut();
+    })
+    
 
 window.addEventListener("load", function () {
     const loader = document.querySelector(".loader");
