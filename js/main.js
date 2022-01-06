@@ -14,9 +14,9 @@ $(document).ready(() => {
     $('#name').html(name);
   
   }
-
-
-
+$(document).ready(function(){
+    $(".preloader").fadeOut();
+    })
 
 $(window).on("load",function(){
     
