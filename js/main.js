@@ -1,8 +1,3 @@
-$(document).ready(function(){
-    $(".preloader").fadeOut();
-    })
-    
-
 window.addEventListener("load", function () {
     const loader = document.querySelector(".loader");
     loader.className += " hidden"; // class "loader hidden"
@@ -13,6 +8,10 @@ $(document).ready(() => {
     getUrl();
   });
   
+$(document).ready(function(){
+    $(".preloader").fadeOut();
+    })
+    
   function getUrl(){
     var url = window.location.href;
     var str = url.split('%');
